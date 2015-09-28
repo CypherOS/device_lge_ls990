@@ -10,8 +10,8 @@
   "branch":      "lp5.1"
  },
  {
-   "repository": "AICP/kernel_lge_g3",
+   "repository": "CyanogenMod/android_kernel_lge_g3",
    "target_path": "kernel/lge/g3",
-   "branch":      "lp5.1"
+   "branch":      "cm-12.1"
  }
 ]
