@@ -13,5 +13,10 @@
    "repository": "CyanogenMod/android_kernel_lge_g3",
    "target_path": "kernel/lge/g3",
    "branch":      "cm-12.1"
+ },
+ {
+   "repository": "CyanogenMod/android_hardware_sony_thermanager",
+   "target_path": "hardware/sony/thermanager",
+   "branch":      "cm-12.1"
  }
 ]
