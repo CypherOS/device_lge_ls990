@@ -5,9 +5,9 @@
     "branch":      "mm6.0"
   },
   {
-    "repository": "AICP/kernel_lge_g3",
+    "repository": "CyanogenMod/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch":      "mm6.0"
+    "branch":      "cm-13.0"
   },
   {
     "repository": "AICP/proprietary_vendor_lge",
