@@ -1,0 +1,26 @@
+[
+  {
+    "repository":  "device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  },
+  {
+   "repository":   "device_qcom_common",
+   "target_path":  "device/qcom/common",
+   "branch":       "nougat-mr1",
+   "remote":       "aoscp"
+  },
+  {
+    "repository":  "kernel_lge_g3",
+    "target_path": "kernel/lge/g3",
+    "branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  }
+]
